@@ -1,0 +1,6 @@
+{
+  "name": "Онлайн-магазин SULŪ Store",
+  "description": "Современный интернет-магазин с каталогом товаров, корзиной и оформлением заказа в тенге (₸).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
